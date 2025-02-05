@@ -23,7 +23,7 @@ public class TaskB
 
         //declares variables for tax and tip rate
         double tax = .0725;
-        double tip = .10;
+        double tip = .20;
 
         //Processing
         double tipAmount = (billAmount * tip);
